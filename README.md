@@ -45,7 +45,7 @@ sudo systemctl enable zookeeper
 sudo systemctl status zookeeper
 ```
 
-## **Install and Run Pinot**
+# **Install and Run Pinot**
 
 ### Step 1: Download and navigate the files
 
