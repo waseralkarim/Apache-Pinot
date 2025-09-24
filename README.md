@@ -29,10 +29,6 @@ java -version
 
 ```
 
-**Check Java Version in Linux**
-
-![Check Java Version in Linux](https://www.tecmint.com/wp-content/uploads/2024/06/Check-Java-Version-in-Linux.png)
-
 ## **Step 2: Installing Zookeeper in Linux**
 
 **Zookeeper** is required by **Apache Pinot** for cluster management, so install it using the following command.
